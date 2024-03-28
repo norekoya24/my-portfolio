@@ -1,1 +1,15 @@
 This directory has all the images used in the final project.
+
+![checkmark--outline (2)](https://github.com/norekoya24/my-portfolio/assets/165296726/53d7d9c8-dc07-4d92-b6db-3f8608090973)
+![bullet](https://github.com/norekoya24/my-portfolio/assets/165296726/71876a03-38bb-4539-ad41-dccbee587997)
+![CSS3](https://github.com/norekoya24/my-portfolio/assets/165296726/e8ad846c-b3cf-43a5-85d2-24bf29652083)
+![envelope](https://github.com/norekoya24/my-portfolio/assets/165296726/30233869-5979-47c3-b851-bc1b743cc073)
+![flash](https://github.com/norekoya24/my-portfolio/assets/165296726/6e831ab9-ba4a-4e5f-87d2-78761babea9d)
+![home](https://github.com/norekoya24/my-portfolio/assets/165296726/198a52bc-7805-4ef0-97d4-d01cbffd3ab5)
+![html5](https://github.com/norekoya24/my-portfolio/assets/165296726/9766e37c-855f-48e8-9e72-4c6f93ad07e5)
+![java](https://github.com/norekoya24/my-portfolio/assets/165296726/1976aa05-59c3-489c-a06c-b76ae9b6e47b)
+![js](https://github.com/norekoya24/my-portfolio/assets/165296726/b3928224-fb1c-416a-91b9-84ddce0e5b6c)
+![node](https://github.com/norekoya24/my-portfolio/assets/165296726/9c2c08aa-5697-4880-8c52-0a865f17e2ab)
+![phone](https://github.com/norekoya24/my-portfolio/assets/165296726/d3eaa5f9-7431-4ea0-8ba9-beefe8292bdc)
+![react](https://github.com/norekoya24/my-portfolio/assets/165296726/ba3845f0-6208-423b-aefb-edd28b5f93a5)
+![waving-hand](https://github.com/norekoya24/my-portfolio/assets/165296726/626aca41-c566-4800-8880-166e56cc0537)
